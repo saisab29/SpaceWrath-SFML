@@ -12,3 +12,10 @@ involves shooting enemies and avoiding enemy fire. The game window size is set t
 Simple and Fast Multimedia Library is a cross-platform software development library
 designed to provide a simple application programming interface to various multimedia
 components in computers.
+
+# How to run
+1. Download the SpaceWrath.zip folder from release <br>
+2. Extract the zip file to your local device<br>
+3. Make sure to check if the '.exe'file is in the same folder as other <br>
+4. Run the '.exe' file to run the game<br>
+These steps are also further explained in the installation section of the website
