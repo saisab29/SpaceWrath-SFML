@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ASUS\Desktop\SFML\sfmlProject\sfmlProject\main.cpp(71,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  sfmlProject.vcxproj -> C:\Users\ASUS\Desktop\SFML\sfmlProject\Debug\sfmlProject.exe
